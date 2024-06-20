@@ -10,7 +10,7 @@ import { fileURLToPath } from 'url'
 global.pairingNumber = '6285745522549' //ganti dengan nomer bot mu
 // Owner
 global.owner = [
-['6285745522549', 'Varo', true]
+['6285954540177', 'Varo', true]
 ]
 global.mods = []
 global.prems = []
