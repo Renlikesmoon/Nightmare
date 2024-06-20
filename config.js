@@ -7,7 +7,7 @@ import { watchFile, unwatchFile } from 'fs'
 import fs from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
-global.pairingNumber = '6285745522549' //ganti dengan nomer bot mu
+global.pairingNumber = '6287893705212' //ganti dengan nomer bot mu
 // Owner
 global.owner = [
 ['6285954540177', 'Varo', true]
