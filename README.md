@@ -1,4 +1,4 @@
-Hai kamu iser nightmare Md 
+Hai kamu ussser nightmare Md 
 
 📌 Script ini selalu Up to Date
 📌 Script ini menggunakan acc ip untuk menghindari pencurian atau penjualan secara ilegal
